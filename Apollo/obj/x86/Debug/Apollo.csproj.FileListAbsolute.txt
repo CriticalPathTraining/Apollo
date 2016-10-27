@@ -1,0 +1,10 @@
+D:\TFS\Courseware\Apollo\Apollo\bin\Debug\BuildSets\BuildInfo.xml
+D:\TFS\Courseware\Apollo\Apollo\bin\Debug\Apollo.exe
+D:\TFS\Courseware\Apollo\Apollo\bin\Debug\Apollo.pdb
+D:\TFS\Courseware\Apollo\Apollo\obj\x86\Debug\Apollo.csprojResolveAssemblyReference.cache
+D:\TFS\Courseware\Apollo\Apollo\obj\x86\Debug\Apollo.Properties.Resources.resources
+D:\TFS\Courseware\Apollo\Apollo\obj\x86\Debug\Apollo.csproj.GenerateResource.Cache
+D:\TFS\Courseware\Apollo\Apollo\obj\x86\Debug\Apollo.exe
+D:\TFS\Courseware\Apollo\Apollo\obj\x86\Debug\Apollo.pdb
+D:\TFS\Courseware\Apollo\Apollo\bin\Debug\Newtonsoft.Json.dll
+D:\TFS\Courseware\Apollo\Apollo\bin\Debug\Newtonsoft.Json.xml

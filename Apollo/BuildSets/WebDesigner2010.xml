@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<BuildSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\Courseware\sp14\WebDesigner</SourceDirectory>
+    <OmittedModules></OmittedModules>
+    <CourseTitle>SharePoint 2010 Brand Camp</CourseTitle>
+    <CourseSubtitle>Student Slide Manual</CourseSubtitle>
+    <CourseCode>SBC2010</CourseCode>
+    <Version>3.0</Version>
+    <FooterText>© Critical Path Training. 2013. All Rights Reserved</FooterText>
+    <BuildFolder>d:\Apollo\build</BuildFolder>
+    <OutputFolder>d:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_SBC2010</OutputFileName>
+    <BuildPDF>false</BuildPDF>
+  </CourseInfo>
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\Courseware\sp14\WebDesigner</SourceDirectory>
+    <OmittedModules>11;12</OmittedModules>
+    <CourseTitle>SharePoint 2010 for Web Designers</CourseTitle>
+    <CourseSubtitle>Student Slide Manual</CourseSubtitle>
+    <CourseCode>SWD2010</CourseCode>
+    <Version>3.0</Version>
+    <FooterText>© Critical Path Training. 2013. All Rights Reserved</FooterText>
+    <BuildFolder>d:\Apollo\build</BuildFolder>
+    <OutputFolder>d:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_SWD2010</OutputFileName>
+    <BuildPDF>false</BuildPDF>
+  </CourseInfo>
+
+</BuildSet>

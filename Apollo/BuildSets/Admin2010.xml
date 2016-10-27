@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<BuildSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\Courseware\sp14\Admin</SourceDirectory>
+    <OmittedModules>10;</OmittedModules>
+    <CourseTitle>SharePoint 2010 Administrators Survival Camp</CourseTitle>
+    <CourseSubtitle>SharePoint 2010 for IT Professionals</CourseSubtitle>
+    <CourseCode>SSC2010</CourseCode>
+    <Version>3.0</Version>
+    <FooterText>© Critical Path Training. 2012. All Rights Reserved</FooterText>
+    <BuildFolder>d:\Apollo\build</BuildFolder>
+    <OutputFolder>d:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_SSC2010</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\Courseware\sp14\Admin</SourceDirectory>
+    <OmittedModules>11;12;13;14</OmittedModules>
+    <CourseTitle>Professional SharePoint 2010 for Administrators</CourseTitle>
+    <CourseSubtitle>SharePoint 2010 for IT Professionals</CourseSubtitle>
+    <CourseCode>SPA2010</CourseCode>
+    <Version>3.0</Version>
+    <FooterText>© Critical Path Training. 2012. All Rights Reserved</FooterText>
+    <BuildFolder>d:\Apollo\build</BuildFolder>
+    <OutputFolder>d:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_SPA2010</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\Courseware\sp14\Admin</SourceDirectory>
+    <OmittedModules>07;11;12;13;14;16</OmittedModules>
+    <CourseTitle>Professional SharePoint 2010 for Administrators Webcast</CourseTitle>
+    <CourseSubtitle>SharePoint 2010 for IT Professionals</CourseSubtitle>
+    <CourseCode>WC-SPA2010</CourseCode>
+    <Version>3.0</Version>
+    <FooterText>© Critical Path Training. 2012. All Rights Reserved</FooterText>
+    <BuildFolder>d:\Apollo\build</BuildFolder>
+    <OutputFolder>d:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_WC-SPA2010</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+  
+</BuildSet>

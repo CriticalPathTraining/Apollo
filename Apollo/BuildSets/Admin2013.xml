@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<BuildSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\Courseware\sp15\Administrator</SourceDirectory>
+    <OmittedModules>08;</OmittedModules>
+    <CourseTitle>SharePoint 2013 Administrator’s Survival Camp</CourseTitle>
+    <CourseSubtitle>SharePoint 2013 for IT Professionals</CourseSubtitle>
+    <CourseCode>SSC2013</CourseCode>
+    <Version>1.3</Version>
+    <FooterText>© Critical Path Training. 2014. All Rights Reserved</FooterText>
+    <BuildFolder>d:\Apollo\build</BuildFolder>
+    <OutputFolder>d:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_SSC2013</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\Courseware\sp15\Administrator</SourceDirectory>
+    <OmittedModules>08;</OmittedModules>
+    <CourseTitle>Professional SharePoint 2013 Administration</CourseTitle>
+    <CourseSubtitle>SharePoint 2013 for IT Professionals</CourseSubtitle>
+    <CourseCode>SPA2013</CourseCode>
+    <Version>1.3</Version>
+    <FooterText>© Critical Path Training. 2014. All Rights Reserved</FooterText>
+    <BuildFolder>d:\Apollo\build</BuildFolder>
+    <OutputFolder>d:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_SPA2013</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\Courseware\sp15\Administrator</SourceDirectory>
+    <OmittedModules>04;09;10;11;13;14</OmittedModules>
+    <CourseTitle>Webcast</CourseTitle>
+    <CourseSubtitle>SharePoint 2013 for IT Professionals</CourseSubtitle>
+    <CourseCode>WC-SPA2013</CourseCode>
+    <Version>1.3</Version>
+    <FooterText>© Critical Path Training. 2014. All Rights Reserved</FooterText>
+    <BuildFolder>d:\Apollo\build</BuildFolder>
+    <OutputFolder>d:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_WC-SPA2013</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+
+</BuildSet>

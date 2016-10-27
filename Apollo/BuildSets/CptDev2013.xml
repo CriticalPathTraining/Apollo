@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+
+<BuildSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\Courseware\sp15\Developer</SourceDirectory>
+    <OmittedModules></OmittedModules>
+    <CourseTitle>The Great SharePoint Adventure 2013</CourseTitle>
+    <CourseSubtitle>Developing for SharePoint 2013 On-premises</CourseSubtitle>
+    <CourseCode>GSA2013</CourseCode>
+    <Version>1.6</Version>
+    <FooterText>© Critical Path Training. 2015. All Rights Reserved</FooterText>
+    <BuildFolder>D:\Apollo\build</BuildFolder>
+    <OutputFolder>D:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_GSA2013</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\Courseware\sp15\Developer</SourceDirectory>
+    <OmittedModules>16</OmittedModules>
+    <CourseTitle>Developing Solutions and Apps with SharePoint 2013</CourseTitle>
+    <CourseSubtitle>SharePoint 2013 for .NET Developers</CourseSubtitle>
+    <CourseCode>SPT2013</CourseCode>
+    <Version>1.5</Version>
+    <FooterText>© Critical Path Training. 2014. All Rights Reserved</FooterText>
+    <BuildFolder>D:\Apollo\build</BuildFolder>
+    <OutputFolder>D:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_SPT2013</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+
+</BuildSet>
+
+ 

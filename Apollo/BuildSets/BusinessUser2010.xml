@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<BuildSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\CptCourses\BusinessUser2010</SourceDirectory>
+    <OmittedModules>07;08;09;10;11;12</OmittedModules>
+    <CourseTitle>SharePoint 2010 for End Users</CourseTitle>
+    <CourseSubtitle>SharePoint 2010 for Business Users</CourseSubtitle>
+    <CourseCode>SEU2010</CourseCode>
+    <Version>2.0</Version>
+    <FooterText>© Critical Path Training. 2012. All Rights Reserved</FooterText>
+    <BuildFolder>e:\Apollo\build</BuildFolder>
+    <OutputFolder>e:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_SEU2010</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\CptCourses\BusinessUser2010</SourceDirectory>
+    <OmittedModules>01;02;03;04;05;06</OmittedModules>
+    <CourseTitle>SharePoint 2010 for Site Collection Administrators</CourseTitle>
+    <CourseSubtitle>SharePoint 2010 for Business Users</CourseSubtitle>
+    <CourseCode>SCA2010</CourseCode>
+    <Version>2.0</Version>
+    <FooterText>© Critical Path Training. 2012. All Rights Reserved</FooterText>
+    <BuildFolder>e:\Apollo\build</BuildFolder>
+    <OutputFolder>e:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_SCA2010</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\CptCourses\BusinessUser2010</SourceDirectory>
+    <OmittedModules></OmittedModules>
+    <CourseTitle>SharePoint 2010 for Power Users</CourseTitle>
+    <CourseSubtitle>SharePoint 2010 for Business Users</CourseSubtitle>
+    <CourseCode>SPU2010</CourseCode>
+    <Version>2.0</Version>
+    <FooterText>© Critical Path Training. 2012. All Rights Reserved</FooterText>
+    <BuildFolder>e:\Apollo\build</BuildFolder>
+    <OutputFolder>e:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_SPU2010</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+
+</BuildSet>

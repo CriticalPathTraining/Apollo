@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<BuildSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\Courseware\sp15\WebDesigner</SourceDirectory>
+    <OmittedModules></OmittedModules>
+    <CourseTitle>SharePoint Brand Camp 2013</CourseTitle>
+    <CourseSubtitle>SharePoint 2013 for Web Designers</CourseSubtitle>
+    <CourseCode>SBC2013</CourseCode>
+    <Version>1.0</Version>
+    <FooterText>© Critical Path Training. 2014. All Rights Reserved</FooterText>
+    <BuildFolder>d:\Apollo\build</BuildFolder>
+    <OutputFolder>d:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_SBC2013</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+
+</BuildSet>

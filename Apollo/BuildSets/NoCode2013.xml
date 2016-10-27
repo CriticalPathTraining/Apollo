@@ -1,0 +1,13 @@
+﻿<CourseInfo>
+  <SourceDirectory>D:\Apollo\Courseware\sp15\NoCode</SourceDirectory>
+  <OmittedModules></OmittedModules>
+  <CourseTitle>SharePoint 2013 No-code Solutions for Office 365 and On-premises</CourseTitle>
+  <CourseSubtitle>SharePoint 2013 for Power Users</CourseSubtitle>
+  <CourseCode>NCS2013</CourseCode>
+  <Version>1.0</Version>
+  <FooterText>© Critical Path Training. 2013. All Rights Reserved</FooterText>
+  <BuildFolder>d:\Apollo\build</BuildFolder>
+  <OutputFolder>d:\Apollo\Final</OutputFolder>
+  <OutputFileName>CPT_NCS2013</OutputFileName>
+  <BuildPDF>true</BuildPDF>
+</CourseInfo>

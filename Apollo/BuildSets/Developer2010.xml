@@ -1,0 +1,60 @@
+﻿<?xml version="1.0"?>
+<BuildSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\CptCourses\Developer2010</SourceDirectory>
+    <OmittedModules></OmittedModules>
+    <CourseTitle>The Great SharePoint Adventure</CourseTitle>
+    <CourseSubtitle>SharePoint 2010 for .NET Developers</CourseSubtitle>
+    <CourseCode>GSA2010</CourseCode>
+    <Version>2.1</Version>
+    <FooterText>© Critical Path Training. 2012. All Rights Reserved</FooterText>
+    <BuildFolder>e:\Apollo\build</BuildFolder>
+    <OutputFolder>e:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_GSA2010</OutputFileName>
+    <BuildPDF>false</BuildPDF>
+  </CourseInfo>
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\CptCourses\Developer2010</SourceDirectory>
+    <OmittedModules>01;03;04;06;07;08;13;16;17</OmittedModules>
+    <CourseTitle>The Great SharePoint Adventure Roadshow</CourseTitle>
+    <CourseSubtitle>SharePoint 2010 for .NET Developers</CourseSubtitle>
+    <CourseCode>RS-GSA2010</CourseCode>
+    <Version>2.1</Version>
+    <FooterText>© Critical Path Training. 2012. All Rights Reserved</FooterText>
+    <BuildFolder>e:\Apollo\build</BuildFolder>
+    <OutputFolder>e:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_RS-GSA2010</OutputFileName>
+    <BuildPDF>false</BuildPDF>
+  </CourseInfo>
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\CptCourses\Developer2010</SourceDirectory>
+    <OmittedModules>15;16;17</OmittedModules>
+    <CourseTitle>Developing Solutions with SharePoint 2010</CourseTitle>
+    <CourseSubtitle>SharePoint 2010 for .NET Developers</CourseSubtitle>
+    <CourseCode>SPT2010</CourseCode>
+    <Version>2.1</Version>
+    <FooterText>© Critical Path Training. 2012. All Rights Reserved</FooterText>
+    <BuildFolder>e:\Apollo\build</BuildFolder>
+    <OutputFolder>e:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_SPT2010</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\CptCourses\Developer2010</SourceDirectory>
+    <OmittedModules>01;07;13;14;15;16;17</OmittedModules>
+    <CourseTitle>Developing Solutions with SharePoint 2010 Webcast</CourseTitle>
+    <CourseSubtitle>SharePoint 2010 for .NET Developers</CourseSubtitle>
+    <CourseCode>WC-SPT2010</CourseCode>
+    <Version>2.1</Version>
+    <FooterText>© Critical Path Training. 2012. All Rights Reserved</FooterText>
+    <BuildFolder>e:\Apollo\build</BuildFolder>
+    <OutputFolder>e:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_WC-SPT2010</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+
+</BuildSet>

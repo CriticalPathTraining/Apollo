@@ -1,0 +1,129 @@
+﻿
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Garamond, Sans-Serif;
+}
+
+#course_title {
+  border: 1px black solid;
+  font-size: 1.2em;
+  padding:4px;
+  color: Black;
+  margin-bottom: 0px;
+}
+
+#course_subtitle {
+  margin-top: 0px;
+  padding: 2px;
+  padding-left: 4px;
+  margin-bottom: 10;
+  font-size: 0.7em;
+  color: #eee;
+  background-color: Black;
+  font-family: Arial Black;
+}
+
+#course_table, #course_table td {
+ border: 1px solid black;
+  border-collapse: collapse;
+}
+
+#course_table {
+  margin-left: 8px;
+  margin-right: 24px;
+}
+
+#course_table td{
+  padding: 4px;
+  font-size: 0.8em;
+  vertical-align: text-top;
+}
+
+.course_header{
+  margin-left: 8px;
+  font-weight: bold;
+  border-bottom: 1px solid 1px;
+  margin-top: 12px;
+  margin-bottom: 8px;
+}
+
+.module_list{
+  margin-top: 0px;
+  font-size: 1.0em;
+}
+
+.section_header {
+  margin-left: 8px;
+  font-weight: bold;
+  border-bottom: 1px solid 1px;
+  margin-top: 14px;
+  margin-bottom: 12px;
+  border-bottom: 1px solid black;
+}
+
+.module_section{
+  border-radius: 6px;
+  padding: 0px;
+  padding-bottom: 8px;
+  background-color: #FFF;
+  border: 1px solid black;
+  margin-left: 10px;
+  margin-right: 24px;
+  margin-top: 8px;
+  margin-bottom: 12px;
+}
+
+h1.module_title {
+  border-top-radius: 6px;
+ 
+ border: 1px solid black;
+  background-color: Black;
+  color: White;
+  padding: 2px;
+  padding-left: 6px;
+  font-size: 14px;
+  margin: 0px;
+  margin-bottom: 4px;
+}
+
+.module_description{
+  margin: 0px;
+  color: #333;
+  padding: 3px;
+  margin-left: 4px;
+  font-size: 0.8em;
+}
+
+.agenda_topics_caption, h2.lab_title{
+  border: 1px solid #AAA;
+  border-top-left-radius: 8px;
+  background-color: #DDD;
+  font-size: 0.7em;
+  font-weight: bold;
+  margin-left: 8px;
+  margin-bottom: 0px;
+  margin-top: 4px;
+  padding-left: 6px;
+  padding-bottom: 2px;
+}
+
+
+ul.module_topics, ul.lab_exercises {
+  margin-top: 2px;
+  margin-bottom: 4px;
+}
+
+
+.module_topics li h2, li.lab_exercise {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  font-size: 0.8em;
+  color: #444;
+  font-weight: normal;
+  font-size: 0.8em;
+  color: #444;
+  margin: 2px;
+
+}

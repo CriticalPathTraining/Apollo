@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BuildSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="BuildSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CourseInfo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SourceDirectory" type="xs:string" minOccurs="0" />
+              <xs:element name="OmittedModules" type="xs:string" minOccurs="0" />
+              <xs:element name="CourseTitle" type="xs:string" minOccurs="0" />
+              <xs:element name="CourseSubtitle" type="xs:string" minOccurs="0" />
+              <xs:element name="CourseCode" type="xs:string" minOccurs="0" />
+              <xs:element name="Version" type="xs:string" minOccurs="0" />
+              <xs:element name="FooterText" type="xs:string" minOccurs="0" />
+              <xs:element name="BuildFolder" type="xs:string" minOccurs="0" />
+              <xs:element name="OutputFolder" type="xs:string" minOccurs="0" />
+              <xs:element name="OutputFileName" type="xs:string" minOccurs="0" />
+              <xs:element name="BuildPDF" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

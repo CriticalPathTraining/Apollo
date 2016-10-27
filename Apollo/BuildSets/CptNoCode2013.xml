@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<BuildSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\Courseware\sp15\NoCode</SourceDirectory>
+    <OmittedModules></OmittedModules>
+    <CourseTitle>Building Business Solutions in SharePoint 2016/2013</CourseTitle>
+    <CourseSubtitle>SharePoint 2016/2013 for Solution Builders</CourseSubtitle>
+    <CourseCode>BBS2016</CourseCode>
+    <Version>1.0</Version>
+    <FooterText>© Critical Path Training. 2016. All Rights Reserved</FooterText>
+    <BuildFolder>d:\Apollo\build</BuildFolder>
+    <OutputFolder>d:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_BBS2016</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+  
+<!--
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\Courseware\sp15\NoCode</SourceDirectory>
+    <OmittedModules>11;12</OmittedModules>
+    <CourseTitle>SharePoint 2013 No-code Solutions for Office 365 and On-premises Webcast</CourseTitle>
+    <CourseSubtitle>SharePoint 2013 for Power Users</CourseSubtitle>
+    <CourseCode>WC-NCS2013</CourseCode>
+    <Version>1.4</Version>
+    <FooterText>© Critical Path Training. 2014. All Rights Reserved</FooterText>
+    <BuildFolder>d:\Apollo\build</BuildFolder>
+    <OutputFolder>d:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_WC-NCS2013</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+-->
+  
+</BuildSet>

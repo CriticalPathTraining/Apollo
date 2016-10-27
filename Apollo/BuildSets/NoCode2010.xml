@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<BuildSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <CourseInfo>
+    <SourceDirectory>D:\Apollo\CptCourses\SharePointDesigner</SourceDirectory>
+    <OmittedModules></OmittedModules>
+    <CourseTitle>Creating No-Code SharePoint Designer Solutions for SharePoint 2010</CourseTitle>
+    <CourseSubtitle>Advanced SharePoint Designer Training</CourseSubtitle>
+    <CourseCode>SPD2010</CourseCode>
+    <Version>2.0</Version>
+    <FooterText>© Critical Path Training. 2012. All Rights Reserved</FooterText>
+    <BuildFolder>e:\Apollo\build</BuildFolder>
+    <OutputFolder>e:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_SPD2010</OutputFileName>
+    <BuildPDF>true</BuildPDF>
+  </CourseInfo>
+
+</BuildSet>
