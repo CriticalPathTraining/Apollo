@@ -2,54 +2,24 @@
 
 <BuildSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  
-    <CourseInfo>
-    <SourceDirectory>D:\Apollo\Courseware\o365\CBD365_Courseware</SourceDirectory>
-    <OmittedModules></OmittedModules>
-    <CourseTitle>Cloud-based Development with Azure and Office 365</CourseTitle>
-    <CourseSubtitle>Mastering the Microsoft Cloud Platform</CourseSubtitle>
-    <CourseCode>CBD365</CourseCode>
-    <Version>1.1</Version>
-    <FooterText>© Critical Path Training. 2016. All Rights Reserved</FooterText>
-    <BuildFolder>d:\Apollo\build</BuildFolder>
-    <OutputFolder>d:\Apollo\Final</OutputFolder>
-    <OutputFileName>CPT_CBD365</OutputFileName>
-    <BuildPDF>true</BuildPDF>
-  </CourseInfo> 
-
-  
-
-  <!--
 
   <CourseInfo>
-    <SourceDirectory>D:\Apollo\Courseware\sp16\NoCode</SourceDirectory>
+    <SourceDirectory>D:\Git\PowerBiMasterClass_Courseware</SourceDirectory>
     <OmittedModules></OmittedModules>
-    <CourseTitle>Building Business Solutions in SharePoint 2016/2013</CourseTitle>
-    <CourseSubtitle>SharePoint 2016/2013 for Solution Builders</CourseSubtitle>
-    <CourseCode>BBS2016</CourseCode>
-    <Version>1.0</Version>
-    <FooterText>© Critical Path Training. 2016. All Rights Reserved</FooterText>
-    <BuildFolder>d:\Apollo\build</BuildFolder>
-    <OutputFolder>d:\Apollo\Final</OutputFolder>
-    <OutputFileName>CPT_BBS2016</OutputFileName>
+    <CourseTitle>Power BI Master Class</CourseTitle>
+    <CourseSubtitle>Mastering the Power BI Developer Platform</CourseSubtitle>
+    <CourseCode>PBIMC</CourseCode>
+    <Version>2.1</Version>
+    <FooterText>© Critical Path Training. 2020. All Rights Reserved</FooterText>
+    <BuildFolder>D:\Apollo\build</BuildFolder>
+    <OutputFolder>D:\Apollo\Final</OutputFolder>
+    <OutputFileName>CPT_PBD365</OutputFileName>
     <BuildPDF>true</BuildPDF>
   </CourseInfo>
 
 
-   <CourseInfo>
-    <SourceDirectory>D:\Apollo\Courseware\o365\EndUser</SourceDirectory>
-    <OmittedModules>01;02;03;04;05;06</OmittedModules>
-    <CourseTitle>SharePoint Online for Site Administrators</CourseTitle>
-    <CourseSubtitle>Learning SharePoint Site Administration</CourseSubtitle>
-    <CourseCode>SSA365</CourseCode>
-    <Version>1.1</Version>
-    <FooterText>© Critical Path Training. 2016. All Rights Reserved</FooterText>
-    <BuildFolder>D:\Apollo\build</BuildFolder>
-    <OutputFolder>D:\Apollo\Final</OutputFolder>
-    <OutputFileName>CPT_SSA365</OutputFileName>
-    <BuildPDF>false</BuildPDF>
-  </CourseInfo>
-
+  <!--
+  
   <CourseInfo>
     <SourceDirectory>C:\Git\PBI365_Courseware</SourceDirectory>
     <OmittedModules></OmittedModules>
@@ -64,122 +34,7 @@
     <BuildPDF>true</BuildPDF>
   </CourseInfo> 
   
-  <CourseInfo>
-    <SourceDirectory>C:\Git\Courseware\GSA2016</SourceDirectory>
-    <OmittedModules></OmittedModules>
-    <CourseTitle>The Great SharePoint Adventure</CourseTitle>
-    <CourseSubtitle>Developing Custom Solutions for SharePoint On-premises</CourseSubtitle>
-    <CourseCode>GSA2016</CourseCode>
-    <Version>1.1</Version>
-    <FooterText>© Critical Path Training. 2016. All Rights Reserved</FooterText>
-    <BuildFolder>D:\Apollo\build</BuildFolder>
-    <OutputFolder>D:\Apollo\Final</OutputFolder>
-    <OutputFileName>CPT_GSA2016</OutputFileName>
-    <BuildPDF>true</BuildPDF>
-  </CourseInfo>
-
-
   
-  <CourseInfo>
-    <SourceDirectory>C:\Git\Courseware\GOA365</SourceDirectory>
-    <OmittedModules></OmittedModules>
-    <CourseTitle>Cloud-based Development with Azure and Office 365</CourseTitle>
-    <CourseSubtitle>Developing Custom Solutions with Microsoft Azure</CourseSubtitle>
-    <CourseCode>CBD365</CourseCode>
-    <Version>1.0</Version>
-    <FooterText>© Critical Path Training. 2016. All Rights Reserved</FooterText>
-    <BuildFolder>D:\Apollo\build</BuildFolder>
-    <OutputFolder>D:\Apollo\Final</OutputFolder>
-    <OutputFileName>CPT_CBD365</OutputFileName>
-    <BuildPDF>true</BuildPDF>
-  </CourseInfo>
--->
-
-  <!--      
-  <CourseInfo>
-    <SourceDirectory>D:\Apollo\Courseware\o365\LibertyOffice365</SourceDirectory>
-    <OmittedModules></OmittedModules>
-    <CourseTitle>Early Adopter Training for Office 365 and SharePoint Online</CourseTitle>
-    <CourseSubtitle>Moving from SharePoint On-premises to SharePoint Online</CourseSubtitle>
-    <CourseCode>LibertyO365</CourseCode>
-    <Version>1.0</Version>
-    <FooterText>© Critical Path Training. 2016. All Rights Reserved</FooterText>
-    <BuildFolder>D:\Apollo\build</BuildFolder>
-    <OutputFolder>D:\Apollo\Final</OutputFolder>
-    <OutputFileName>CPT_LibertyO365</OutputFileName>
-    <BuildPDF>true</BuildPDF>
-  </CourseInfo>
-
-
- 
-  <CourseInfo>
-    <SourceDirectory>C:\Git\Courseware\GOA365</SourceDirectory>
-    <OmittedModules></OmittedModules>
-    <CourseTitle>The Great Office 365 Adventure</CourseTitle>
-    <CourseSubtitle>Developing for Office 365 and SharePoint Online</CourseSubtitle>
-    <CourseCode>GOA365</CourseCode>
-    <Version>1.0</Version>
-    <FooterText>© Critical Path Training. 2016. All Rights Reserved</FooterText>
-    <BuildFolder>D:\Apollo\build</BuildFolder>
-    <OutputFolder>D:\Apollo\Final</OutputFolder>
-    <OutputFileName>CPT_GOA365</OutputFileName>
-    <BuildPDF>true</BuildPDF>
-  </CourseInfo>
-
-  <CourseInfo>
-    <SourceDirectory>C:\Git\Courseware\GSA2016</SourceDirectory>
-    <OmittedModules></OmittedModules>
-    <CourseTitle>The Great SharePoint Adventure</CourseTitle>
-    <CourseSubtitle>Developing for SharePoint On-premises</CourseSubtitle>
-    <CourseCode>GSA2016</CourseCode>
-    <Version>1.0</Version>
-    <FooterText>© Critical Path Training. 2016. All Rights Reserved</FooterText>
-    <BuildFolder>D:\Apollo\build</BuildFolder>
-    <OutputFolder>D:\Apollo\Final</OutputFolder>
-    <OutputFileName>CPT_GSA2016</OutputFileName>
-    <BuildPDF>true</BuildPDF>
-  </CourseInfo>
-
-  
-  <CourseInfo>
-    <SourceDirectory>C:\Git\Courseware\SSC2016</SourceDirectory>
-    <OmittedModules></OmittedModules>
-    <CourseTitle>SharePoint 2016 Administrator's Survival Camp</CourseTitle>
-    <CourseSubtitle>Installing and Managing SharePoint 2016 in an On-premises Environment</CourseSubtitle>
-    <CourseCode>SSC2016</CourseCode>
-    <Version>1.0</Version>
-    <FooterText>© Critical Path Training. 2016. All Rights Reserved</FooterText>
-    <BuildFolder>D:\Apollo\build</BuildFolder>
-    <OutputFolder>D:\Apollo\Final</OutputFolder>
-    <OutputFileName>CPT_SSC2016</OutputFileName>
-    <BuildPDF>true</BuildPDF>
-  </CourseInfo>
-  <CourseInfo>
-    <SourceDirectory>D:\Apollo\Courseware\o365\EndUser</SourceDirectory>
-    <OmittedModules>07;08;09;10;11;12</OmittedModules>
-    <CourseTitle>Introduction to SharePoint Online</CourseTitle>
-    <CourseSubtitle>Learning SharePoint in Office 365</CourseSubtitle>
-    <CourseCode>SPI365</CourseCode>
-    <Version>1.1</Version>
-    <FooterText>© Critical Path Training. 2016. All Rights Reserved</FooterText>
-    <BuildFolder>D:\Apollo\build</BuildFolder>
-    <OutputFolder>D:\Apollo\Final</OutputFolder>
-    <OutputFileName>CPT_SPI365</OutputFileName>
-    <BuildPDF>true</BuildPDF>
-  </CourseInfo>
-  <CourseInfo>
-    <SourceDirectory>D:\Apollo\Courseware\o365\EndUser</SourceDirectory>
-    <OmittedModules></OmittedModules>
-    <CourseTitle>SharePoint Online for Business Users</CourseTitle>
-    <CourseSubtitle>Learning SharePoint in Office 365</CourseSubtitle>
-    <CourseCode>SBU365</CourseCode>
-    <Version>1.0</Version>
-    <FooterText>© Critical Path Training. 2016. All Rights Reserved</FooterText>
-    <BuildFolder>D:\Apollo\build</BuildFolder>
-    <OutputFolder>D:\Apollo\Final</OutputFolder>
-    <OutputFileName>CPT_SBU365</OutputFileName>
-    <BuildPDF>true</BuildPDF>
-  </CourseInfo>
-
   -->
+
 </BuildSet>
